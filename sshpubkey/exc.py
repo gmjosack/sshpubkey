@@ -1,6 +1,6 @@
 
 class Error(Exception):
-    """ Baseclass for Grouper Exceptions."""
+    """ Baseclass for sshpubkey Exceptions."""
 
 
 class PublicKeyError(Error):
